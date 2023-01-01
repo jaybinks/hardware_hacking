@@ -15,3 +15,6 @@ Datasheet for WB2S : https://developer.tuya.com/en/docs/iot/wb2s-module-datashee
 https://github.com/kuba2k2/libretuya
 The WB2s board is supported by Libretuya : https://docs.libretuya.ml/docs/status/supported/
 you can use libretuya with ESPhome if desired : https://docs.libretuya.ml/docs/projects/esphome/
+
+## OTA Flashing (no Uart) ?
+https://docs.libretuya.ml/docs/getting-started/cloudcutter/
